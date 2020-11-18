@@ -1,0 +1,124 @@
+What is Linux?
+Types of Linux Distributions?
+Centos
+Redhat
+Fedora
+yum command
+
+
+Ubuntu
+Debian
+
+apt-get 
+
+Basic commands
+pwd
+cd
+cal
+date
+history
+clear
+man
+ping
+curl
+How to create the files in linux?
+	touch
+	cat
+	vi/vim
+	nano
+
+cp
+mv
+How to check the cpu information in Linux
+How to check the memory information in Linux?
+
+
+10.255.0.0/16 ---10.255.1.0
+
+172.255.0.0/16   - 172.255.6.1
+
+app1 -  8GB 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+How to create directories in linux?
+How to remove files and directories?
+What is Softlink and Hardlink in linux
+What is inode number?
+What is head and tail command in linux?
+How to create and delete the users and groups in linux?
+What is top command in linux?
+What is free command in linux?
+File permission and ownership in Linux?
+
+- rw- r-- r-- 2 root root        93 Nov 16 02:10 mm
+
+
+r = read =4
+w= write =2
+x = exacute =1
+
+user/owner 
+
+group
+
+other 
+
+
+chmod 755  
+
+chown 
+
+
+
+
+
+
+
+What is YUM command in Linux?
+YUM command with examples in Linux?
+
+What is the use of wget command in Linux?
+
+What is RPM command in Linux?
+RPM command with examples in Linux?
+
+What is tar command in Linux?
+tar  commands with examples in Linux?
+
+What is zip command in Linux?
+Zip command with examples in Linux?
+
+ZIP command in Linux with examples. ZIP is a compression and file packaging utility for Unix. Each file is stored in single . ... zip is used to compress the files to reduce file size and also used as file package utility. zip is available in many operating systems like unix, linux, windows etc.
+
+
+What is find command in Linux?
+find command with examples in Linux?
+
+
+What is ps command in Linux?
+ps command with examples in Linux?
+What is kill command in Linux?
+kill command with examples in Linux?
+
+
+
+
+
+
+
+
